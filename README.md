@@ -1,2 +1,2 @@
 # ClassMethodDemo
-A simple simulation which simulates customers of a bank.
+A simple simulation which simulates the customers of a bank.
